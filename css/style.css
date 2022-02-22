@@ -1,0 +1,146 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header_navbar{
+    background-color: black;
+}
+
+nav{
+    position: fixed;
+    z-index: 999;
+    
+}
+.nav_bar{
+   
+    background-color: black;
+ 
+    
+}
+
+.nav_bar_component{
+    list-style: none;
+    display: inline-flex; 
+    margin: 0%;
+    padding: 10px 0px;
+    
+}
+
+.nav_bar_component_item{
+    padding: 0px 10px;
+}
+
+.nav_li {
+    color: white;
+    
+    text-decoration: none;
+    font-size: x-large;
+    text-transform: capitalize;
+}
+.bannner_image{
+    position: relative;
+    
+}
+
+img.image_banner{
+    height: 660px;
+    width: 100%;
+    opacity: 70%;
+}
+.content_bannner{
+    left: 100px;
+    opacity: 100%;
+    position: absolute;
+    top: 250px;
+    width: 500px;
+    text-transform: capitalize;
+    
+}
+
+.content_banner_image {
+    color: blueviolet;
+    font-size: 45px;
+}
+
+.btn_bannner_image {
+    padding: 10px;
+    background: cyan;
+    border: 1px solid red;
+    margin: 25px 160px;
+}
+
+.info_h2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+    text-transform: capitalize;
+  }
+
+.flex_container2{
+    display: flex;
+    margin: 50px 50px 20px 200px;
+}
+
+img.qwert {
+    height: 350px;
+    margin: 10px;
+}
+img.abo{
+    width: 400px;
+}
+
+.flex_container1 {
+    margin: 20px 200px 20px 200px;
+    display: flex;
+}
+
+.info_p {
+    margin: 20px;
+    align-items: center;
+    justify-content: center;
+    text-transform: lowercase;
+}
+div.container {
+    margin-left: 70px;
+    width: 230px;
+}
+
+img.asd {
+    width: 250px;
+}
+
+.flex_container3 {
+    margin: 50px 200px 20px 200px;
+    display: flex;
+}
+
+.footer{
+    height: 500px;
+    width: 100%;
+    position: relative;
+    background-color: black;
+}
+form{display: grid;}
+
+label{
+    color: white;
+    margin-top: 20px;
+    margin-bottom: 5px;
+  
+}
+h3{
+    color: white;
+    margin-top: 50px;
+}
+#subject{width: 250px; height: 150px;}
+img.zxc{
+    width: 200px;
+    margin-top: 200px;
+margin-right: 50px;
+margin-left: 450px;
+}
+ .container5 {
+     
+ }
+
